@@ -106,7 +106,7 @@ require 'core.keymaps'
 require 'core.autocommands'
 
 -- [[ Install `lazy.nvim` plugin manager ]]
-require 'lazy'
+require 'lazy_bootstrap'
 
 -- [[ Configure and install plugins ]]
 --
